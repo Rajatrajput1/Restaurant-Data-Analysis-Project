@@ -77,7 +77,7 @@ Welcome to my submission for the **Cognifyz Technologies Data Analysis Internshi
 
 ## 📬 Contact
 
-- **LinkedIn**: [Rajat Rajput ] (https://www.linkedin.com/in/rajat-rajput-3590672a0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2BpWNyOXTTZ%2BKvkxYuMKCdg%3D%3D)
+- **LinkedIn**: [Rajat Rajput ] (in/rajat-rajput-3590672a0)
 - **GitHub**: [YourUsername](https://github.com/Rajatrajput1)
 - **Email**: rr4120138@gmail.com
 
