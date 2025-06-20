@@ -1,4 +1,4 @@
-# Data_Analysis-Internship
+# Restaurant Data Analysis Project
 
 
 # 📊 Cognifyz Data Analyst Internship – Task Submissions
