@@ -1,15 +1,7 @@
 # Restaurant Data Analysis Project
 
 
-# 📊 Cognifyz Data Analyst Internship – Task Submissions
-
-Welcome to my submission for the **Cognifyz Technologies Data Analysis Internship Program**. This repository contains completed data analysis tasks based on real-world restaurant data, using Python and powerful libraries such as `pandas`, `matplotlib`, and `seaborn`.
-
----
-
-## 🏢 About the Internship
-
-**Cognifyz Technologies** is a company specializing in Data Science, AI, and Machine Learning solutions. Their internship program offers hands-on exposure to solving business problems using data analytics.
+# This project analyzes a large dataset of restaurant data (~9,500 records), exploring food trends, customer preferences, price ranges, and delivery features.
 
 ---
 
@@ -36,13 +28,13 @@ Welcome to my submission for the **Cognifyz Technologies Data Analysis Internshi
 
 ---
 
-### 🟥 Level 3 – Advanced Analysis
+### 🟥 Level 3 
 
-2. **Votes Analysis**
+1. **Votes Analysis**
    - Identified restaurants with highest and lowest votes
    - Analyzed the correlation between number of votes and restaurant ratings
 
-3. **Price Range vs Online Delivery & Table Booking**
+2. **Price Range vs Online Delivery & Table Booking**
    - Explored the relationship between price range and:
      - Online delivery availability
      - Table booking availability
@@ -70,7 +62,7 @@ Welcome to my submission for the **Cognifyz Technologies Data Analysis Internshi
 
 ## 🔗 LinkedIn Submission
 
-📽️ I also shared a post summarizing my work as required by Cognifyz.  
+📽️ I also shared a post summarizing my work . 
 🔗 [LinkedIn Post Link](#)] (https://www.linkedin.com/posts/rajat-rajput-3590672a0_cognifyz-cognifyztech-cognifyztechnologies-activity-7338122382353543168-oH7d?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEiflzUBMg0l1y7C3f1GSkE0Z2RJJ21bkwY)
 
 ---
@@ -81,4 +73,3 @@ Welcome to my submission for the **Cognifyz Technologies Data Analysis Internshi
 - **GitHub**: https://github.com/Rajatrajput1
 - **Email**: rr4120138@gmail.com
 
-> This project was completed as part of the **Cognifyz Technologies Data Analyst Internship Program**.
