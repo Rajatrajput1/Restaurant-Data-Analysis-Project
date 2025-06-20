@@ -63,7 +63,7 @@
 ## 🔗 LinkedIn Submission
 
 📽️ I also shared a post summarizing my work . 
-🔗 [LinkedIn Post Link](#)] (https://www.linkedin.com/posts/rajat-rajput-3590672a0_cognifyz-cognifyztech-cognifyztechnologies-activity-7338122382353543168-oH7d?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEiflzUBMg0l1y7C3f1GSkE0Z2RJJ21bkwY)
+🔗 [LinkedIn Post Link](#)] (https://www.linkedin.com/posts/rajat-rajput-3590672a0_dataanalysis-python-internship-activity-7338122382353543168-nzJU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEiflzUBMg0l1y7C3f1GSkE0Z2RJJ21bkwY)
 
 ---
 
